@@ -1,1 +1,1 @@
-# Devil
+# Query expansion
